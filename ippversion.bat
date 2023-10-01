@@ -1,1 +1,2 @@
+cls
 ClangSharpPInvokeGenerator @ippversion.rsp

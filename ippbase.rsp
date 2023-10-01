@@ -1,0 +1,20 @@
+--config
+generate-macro-bindings
+generate-unmanaged-constants
+log-visited-files
+--language
+c++
+--namespace
+Intel
+--methodClassName
+ipps
+--libraryPath
+ipps.dll
+--define-macro
+COMPILER_SUPPORT_SHORT_FLOAT _FLOAT_16
+--traverse
+ippdefs.h
+--file
+ippbase.h
+--output
+ippbase.cs

@@ -1,0 +1,15 @@
+--config
+generate-macro-bindings
+generate-unmanaged-constants
+--language
+c++
+--namespace
+Intel
+--methodClassName
+ipps
+--libraryPath
+ipps.dll
+--file
+ippversion.h
+--output
+ippversion.cs

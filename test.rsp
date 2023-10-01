@@ -1,0 +1,15 @@
+--config
+generate-file-scoped-namespaces
+generate-macro-bindings
+--language
+c++
+--file
+ippversion.h
+--namespace
+Intel
+--output
+test_ipps.cs
+--methodClassName
+ipps
+--libraryPath
+ipps.dll

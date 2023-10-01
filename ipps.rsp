@@ -1,0 +1,12 @@
+--config
+generate-helper-types
+--file
+ipps.h
+--namespace
+Intel
+--output
+ipps.cs
+--methodClassName
+ipps
+--libraryPath
+ipps.dll

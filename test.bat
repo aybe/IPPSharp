@@ -1,2 +1,0 @@
-cls
-ClangSharpPInvokeGenerator @test.rsp

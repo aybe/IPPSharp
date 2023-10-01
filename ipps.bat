@@ -1,0 +1,2 @@
+cls
+ClangSharpPInvokeGenerator @ipps.rsp
